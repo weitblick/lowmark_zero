@@ -9,7 +9,7 @@
  ███    ██████     ████ █████    ██   ██   ██████ ██  ███    ███   ██
 ```
 
-**Lowmark Zero: Reach the bottom of simplicity – A minimalist version of the low-tech Markdown website generator. **
+**Lowmark Zero: Reach the bottom of simplicity – A minimalist version of the low-tech Markdown website generator.**
 
 Version: 0.1-zero  
 Last updated: 2025-04-23  
