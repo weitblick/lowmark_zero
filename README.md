@@ -79,7 +79,7 @@ lowmark/                  → Core logic of the site generator
   └── ParsedownExtra.php  → Extended Markdown support
 
 .htaccess             → URL rewriting for Apache servers
-config.php            → Base configuration (must be customized!)
+
 index.php             → Main template file; initializes lowmark by calling core.php
 
 ```
