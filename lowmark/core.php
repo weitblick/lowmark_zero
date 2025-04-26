@@ -22,9 +22,18 @@
  *               This is the core logic of Lowmark – routing, security, and rendering
  *               of Markdown-based pages using frontmatter and ParsedownExtra.
  *
- * Copyright (c) 2025 Erhard Maria Klein, lowmark.de
- * Licensed under the MIT License
- * See LICENSE file or https://opensource.org/licenses/MIT
+ * Lowmark is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Lowmark is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Lowmark. If not, see <https://www.gnu.org/licenses/>.
  *
  * Depends on:   Parsedown & ParsedownExtra from https://parsedown.org/
  */
